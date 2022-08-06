@@ -1,6 +1,9 @@
 ## 说明
 
-Fork from https://github.com/luchenqun/my-bookmark
+**Fork From** 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuyo5678&repo=chrome-bookmark-clustering)
+
+
 
 一个聚簇的简单demo，对chrom导出书签进行简单分类。
 
