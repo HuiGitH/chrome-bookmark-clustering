@@ -20,12 +20,12 @@ chrome://bookmarks/
 ```
 在打开页面中点击`organize` ---->>> `Export bookmarks to HTML file`
 
-如下图：
+如下图：  
  ![](images/screenshot.jpg) 
 
 保存文件后可以将文件路径作为命令的书签文件路径即可运行。
 
-分类之前的书签：
+分类之前的书签：  
 ![img.png](images/img.png)
 
 
@@ -65,5 +65,5 @@ python cluster.py -m hierarchical -f ./bookmarks_demo.html -k 15
 
 将`output_data_001.html`导入到浏览器
 
-分类后的书签：
+分类后的书签：  
 ![img.png](images/img1.png)
