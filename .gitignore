@@ -90,3 +90,5 @@ ENV/
 
 # data
 data/*
+my_bookmark/*
+.DS_Store
